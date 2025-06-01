@@ -2,7 +2,7 @@
 <!-- markdownlint-disable-next-line -->
 <p style='text-align: center'>
   <!-- markdownlint-disable-next-line -->
-  <picture>
+  <picture style='text-align: center'>
     <!-- markdownlint-disable-next-line -->
     <source media="(prefers-color-scheme: dark)" srcset="..//logo.png">
     <!-- markdownlint-disable-next-line -->
