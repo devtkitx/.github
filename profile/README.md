@@ -1,15 +1,21 @@
 <!-- #host-reference -->
 <!-- markdownlint-disable-next-line -->
-<p align='center'>
+<p style='text-align: center'>
   <!-- markdownlint-disable-next-line -->
-  <img src='..//logo.png' alt='logo' width='200' height='200' />
+  <picture>
+    <!-- markdownlint-disable-next-line -->
+    <source media="(prefers-color-scheme: dark)" srcset="..//logo.png">
+    <!-- markdownlint-disable-next-line -->
+    <img alt="Nx - Smart Repos · Fast Builds" src="..//logo.png" width="200">
+  </picture>
+
+  <!-- markdownlint-disable-next-line -->
+  <h1 align='center'>devkitx</h1>
+  <!-- markdownlint-disable-next-line -->
+  <p align='center'>Crafting magical developer toolchains, automation, environments, and wizards for devs</p>
 </p>
 
 # 👋 Welcome to Devkitx
-
-Crafting magical developer toolchains. Automation, environments, and wizards for modern devs.
-
----
 
 ## 🔧 What is Devkitx?
 
