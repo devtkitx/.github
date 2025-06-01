@@ -1,6 +1,13 @@
+<!-- #host-reference -->
+<!-- markdownlint-disable-next-line -->
+<p align='center'>
+  <!-- markdownlint-disable-next-line -->
+  <img src='..//logo.png' alt='logo' width='200' height='200' />
+</p>
+
 # 👋 Welcome to Devkitx
 
-**Devkitx** is a curated ecosystem of lightweight, modular CLI tools designed to empower developers and sysadmins in optimizing and automating their workflows, with a strong focus on Windows and cross-platform development environments.
+Crafting magical developer toolchains. Automation, environments, and wizards for modern devs.
 
 ---
 
